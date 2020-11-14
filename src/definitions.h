@@ -16,6 +16,9 @@
 
 //COMMON DEFINITIONS
 
+//this is a new defintion just to test if github integration works
+#define GITHUB 420
+
 #define EMPTY 256
 
 //buttons
