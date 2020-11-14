@@ -1,5 +1,5 @@
 # insane_sequencer_synth
- Sequencer and synthesizer based on an ESP32 chip, that wants to be a very cheap "alternative" to the OP-1
+ Sequencer and synthesizer based on an ESP32 chip, that wants to be a very cheap, DIY, "alternative" to the OP-1
 
 This project is just a little bit more than an idea. When something will begin to work I'll update the repo.
 Planning to use Mozzi library as synth engine, if porting to esp32 is reliable.
